@@ -155,6 +155,7 @@ body{
 .content em{
     color: #ff7200;
     font-size: 6.5rem;
+    font-style: normal;   
 }
 
 /*login*/
