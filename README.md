@@ -29,6 +29,6 @@ Ci dessous j'ai enumerer les plus grosse erreures que j'ai rectifier
 
 ## img ##
 
-![](/assets/Screenshot 2022-04-10 at 13-17-26 connection.png)
+![](/assets/readme.png)
 
 [voir la page](https://areslane67.github.io/readme-correction/index.html)
