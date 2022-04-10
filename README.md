@@ -23,11 +23,13 @@ Ci dessous j'ai enumerer les plus grosse erreures que j'ai rectifier
 - reset pas assez developper <br>
 - abscence de responsive @media screen<br>
 - utilisation de l'unitee de mesure px a la place de rem<br>
+- pas assez d'accecibilitée
 
 ## jS ##
 
 - le DOM n'a pas etait utiliser
 - utilisation de var a la place de let
+- pas de local storage
 
 ## img ##
 
