@@ -112,6 +112,11 @@ body{
     background-size: cover;
     height: auto;
 }
+main{
+    height: 80vh;
+    display: block;
+    margin: 4rem auto;
+}
 .content{
     width: 120rem;
     height: auto;
@@ -132,7 +137,6 @@ body{
     font-family: 'Times New Roman';
     font-size: 5rem;
     padding-left: 2rem;
-    margin-top: 9%;
     letter-spacing: .2rem;
 }
 
@@ -266,10 +270,7 @@ ul.icons{
 
 footer{
     color: white;
-    height: 20vh;
-    display: flex;
-    justify-content: center;
-    align-items:flex-end;
+    text-align: center;
 }
 
 
@@ -300,8 +301,10 @@ footer{
         margin-top: 30rem;
     }
     .content h2{
-        max-width: 100%;
         font-size: 4rem;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
     }
     .content em{
         font-size: 5rem;
